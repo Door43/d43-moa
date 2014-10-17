@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[moa:home|Door43 (moa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-moa|d43-moa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-moa/archive/master.zip|d43-moa.zip]]
+
+**Recent Changes**
+{{changes>ns = moa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/moa|Ethnologue data]]
+
